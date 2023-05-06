@@ -1,7 +1,7 @@
 ## For install javascript run:
 
 ***curl -sL https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.0/install.sh -o install_nvm.sh***
->bash install install_nvm.sh
+* bash install install_nvm.sh
 >source ~/.profile
 >command -v nvm
 >nvm install --lts
