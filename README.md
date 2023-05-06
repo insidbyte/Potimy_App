@@ -35,4 +35,4 @@ An app that uses the Spotify API to search and listen to songs by random search 
 * npm install req
 
 # Example:
-![Alt text](/img/start_app.png?raw=true "App Start")
+![Alt text](/img/app_start.png?raw=true "App Start")
