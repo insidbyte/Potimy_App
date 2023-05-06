@@ -20,7 +20,7 @@ An app that uses the Spotify API to search and listen to songs by random search 
 ***run in cmd line or terminal:***
 * node src/main.js 
 
-***My browser is firefox, therefore i go in:***
+***My browser is firefox, then in:***
 ***Firefox -> Settings -> search[coockie setting] -> disable third coockie block.***
 ***If i haven't done the log in in portal developers i should do the log in when app is running.***
 
