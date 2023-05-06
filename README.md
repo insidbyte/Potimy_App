@@ -17,7 +17,7 @@ An app that uses the Spotify API to search and listen to songs by random search 
 
 ## When starting the app 
 
-***run in cmd line or terminal with:***
+***run in cmd line or terminal:***
 * node src/main.js 
 
 ***My browser is firefox, therefore i go in:***
