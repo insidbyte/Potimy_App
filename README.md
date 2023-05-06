@@ -36,11 +36,14 @@ An app that uses the Spotify API to search and listen to songs by random search 
 
 # Example:
 
-![Alt text](/img/app_start.png?raw=true "App Start")
 
 ***Install requirement:***
 
 ![Alt text](/img/npm_install.png?raw=true "App Start")
+
+***Start app***
+
+![Alt text](/img/app_start.png?raw=true "App Start")
 
 ***Open bowser on localhost and port:***
 
