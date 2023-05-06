@@ -51,4 +51,4 @@ http://127.0.0.1:port
 
 ![Alt text](/img/start_bowser.png?raw=true "App Start")
 
-***Authenticate and enjoy !!***
+***Accept and enjoy !!***
