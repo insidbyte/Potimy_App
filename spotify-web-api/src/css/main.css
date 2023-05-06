@@ -1,0 +1,70 @@
+
+html {
+	background-color: #373737;
+	color: #999;
+	padding-left: 27px;
+}
+button {
+	color: #373737;
+	font: 14px/19px  "Helvetica", "Arial", sans-serif;
+  	border: 3px solid green ;
+  	padding: 10px;
+	background-color:green;
+	height: 42px;
+	
+	vertical-align: auto;
+}
+section {
+	display: inline-flexbox;
+}
+h2 { 
+	color: #ffffff; 
+	font-family: 'Raleway',sans-serif; 
+	font-size: 45px; 
+	font-weight: 800; 
+	line-height: 36px; 
+	margin: auto;
+	text-align: center; 
+}
+h2, h3, h4 {
+	color: #FFF;
+	font: 14px/19px  "Helvetica", "Arial", sans-serif;
+	margin: auto;
+	margin-top: 10px;
+  	padding: 10px;
+	text-align: center;
+}
+
+h1 { 
+	color: green; 
+	font-family: 'Lato'; 
+	font-size: 62px; 
+	font-weight: 800; 
+	line-height: 72px; 
+	margin: 0 0 24px; 
+	text-align: center; 
+	text-transform: uppercase; 
+}
+
+input {
+	background-image: url("sp://import/img/toolbar-search_glass.png");
+	background-repeat: no-repeat;
+	background-position: 7px 6px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	margin-left: 700px;
+  	width: 20%;
+  	background-color:#373737;
+	color: #FFF;
+  	padding: 10px;
+	border: 2px solid dimgray;
+}
+h1 {
+	margin: auto;
+	margin-top: 20px;
+  	width: 50%;
+  	border: 10px solid dimgrey;
+  	padding: 10px;
+}
+
+

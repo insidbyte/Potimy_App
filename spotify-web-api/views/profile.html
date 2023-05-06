@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta http-equiv="Content-Type" content="application/json; charset=utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Potify - Search </title>
+        <script src="/profile.js" ></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+        <link rel="stylesheet" type="text/css" href="./css/main.css" />
+        <link rel="icon" type="image/x-icon" href="./logo.ico" />
+    </head>
+    <body>
+        <script>0</script>
+        <h1 id="search" >potimy search</h1>
+        
+    <section id="profile">
+        <input id="artistName" type="text" placeholder="Inserisci un artista" />
+        <button id="enter" onclick="display_AlbumArtistImg();">RANDOM BY ARTIST</button>
+        <button onclick="render_search();">SEARCH SONG</button>
+    </section>
+    <script>
+    $(document).ready(function(){
+        $('#artistName').keypress(function(e){
+          if(e.keyCode==13)
+          $('#enter').click();
+        });
+    });
+    </script>
+    </body>
+</html>
