@@ -41,6 +41,12 @@ An app that uses the Spotify API to search and listen to songs by random search 
 
 ![Alt text](/img/tutorial.png?raw=true "App Start")
 
+***after this go to https://developer.spotify.com/ and after creating the***
+***app make sure that in app settings, the redirect uri is : http://127.0.0.1:8888/callback***
+***this will work if you don't change the source code.***
+
+![Alt text](/img/app_setting.png?raw=true "App Start")
+
 ***Install requirement:***
 
 ![Alt text](/img/npm_install.png?raw=true "App Start")
