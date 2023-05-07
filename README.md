@@ -36,6 +36,10 @@ An app that uses the Spotify API to search and listen to songs by random search 
 
 # Example:
 
+***First of all go in spotify_web_api/src/auth.js and change the file with***
+***your client_id and your redirect_uri***
+
+![Alt text](/img/tutorial.png?raw=true "App Start")
 
 ***Install requirement:***
 
