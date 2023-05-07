@@ -49,6 +49,8 @@ An app that uses the Spotify API to search and listen to songs by random search 
 
 ![Alt text](/img/redirect.png?raw=true "App Start")
 
+![Alt text](/img/redirect_code.png?raw=true "App Start")
+
 ***Install requirement:***
 
 ![Alt text](/img/npm_install.png?raw=true "App Start")
