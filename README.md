@@ -35,4 +35,32 @@ An app that uses the Spotify API to search and listen to songs by random search 
 * npm install req
 
 # Example:
-![Alt text](/img/start_app.png?raw=true "App Start")
+
+***First of all go in spotify_web_api/src/auth.js and change the file with***
+***your client_id and your redirect_uri***
+
+![Alt text](/img/tutorial.png?raw=true "App Start")
+
+***after this go to https://developer.spotify.com/ and after creating the***
+***app make sure that in app settings, the redirect uri is : http://127.0.0.1:8888/callback***
+***this will work if you don't change the source code.***
+
+![Alt text](/img/app_setting.png?raw=true "App Start")
+
+![Alt text](/img/redirect.png?raw=true "App Start")
+
+***Install requirement:***
+
+![Alt text](/img/npm_install.png?raw=true "App Start")
+
+***Start app***
+
+![Alt text](/img/app_start.png?raw=true "App Start")
+
+***Open bowser on localhost and port:***
+
+http://127.0.0.1:port
+
+![Alt text](/img/start_bowser.png?raw=true "App Start")
+
+***Accept and enjoy !!***

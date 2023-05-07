@@ -62,6 +62,7 @@ function getAuth(code) {
 
 function access(){
     const code = document.getElementById('token').innerText;
+    let body = getAuth(code);
     const response = fetch('https://accounts.spotify.com/api/token', {
         method: 'POST',
         headers: {
